@@ -20,7 +20,7 @@ class BaseClass{
         translate(pos.x,pos.y);
         rotate(angle);
         rectMode(CENTER);
-        //fill("red");
+        //fill("orange");
         //console.log("created");
         rect(0,0, this.width, this.height);
         //console.log("created"+pos.x+", "+pos.y+", "+ this.width+", "+ this.height);

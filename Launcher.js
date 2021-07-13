@@ -25,7 +25,8 @@ class Launcher{
         //console.log("A:"+pointA.x,pointA.y);
         //console.log("B:"+pointB.x,pointB.y);
 
-        line(pointA.x,pointA.y,pointB.x,pointB.y);
+      //  line(pointA.x,pointA.y,pointB.x,pointB.y);
+        
         }
 
     }
